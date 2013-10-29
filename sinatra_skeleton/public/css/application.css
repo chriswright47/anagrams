@@ -7,3 +7,32 @@
 th {
   text-align: left;
 }
+
+h1 {
+  text-align: center;
+}
+
+h4 {
+  text-align: center;
+}
+
+img {
+  width: 400px;
+  height: 400px;
+  padding-top: 30px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto 
+}
+
+em {
+  padding-right: 30px;
+}
+.deep_pink {
+  color: deeppink;
+}
+
+.anagrams {
+  text-align: center;
+  color: deeppink;
+}
